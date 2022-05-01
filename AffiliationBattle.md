@@ -7,7 +7,7 @@ This is a proposal for a new user friendly format that aligns to affiliations an
 * A player must select up to 7 models
 * A player must select up to 7 team tactics cards which must adhere to the [Banned and Restriced List](https://www.atomicmassgames.com/marvel/op)
 * Each player must select 3 Secure Crisis Cards and 3 Extraction Crisis Cards
-** The Tournament Organizer may take the context as a beginner event to possibly limit the set of crisis cards if the audience for the event is better suited to a more straightfoward set of Crisis Cards (for example: Mystic Wakandan Herb might be banned for this event)
+    + The Tournament Organizer may take the context as a beginner event to possibly limit the set of crisis cards if the audience for the event is better suited to a more straightfoward set of Crisis Cards (for example: Mystic Wakandan Herb might be banned for this event)
 
 # Tournament Organizer Recommendations
 
